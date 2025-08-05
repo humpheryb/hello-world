@@ -1,8 +1,8 @@
 <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h1 style="test-align:center">New user Register for DevOps Learning</h1>
-      <h2 style="text-align:center">Login with Social Media or Manually</h2>
+      <h1>New user Register for DevOps Learning</h1>
+      <h2>Login with Social Media or Manually</h2>
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
